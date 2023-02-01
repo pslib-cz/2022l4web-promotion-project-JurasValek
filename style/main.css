@@ -16,7 +16,7 @@ hr {
 }
 header {
     height: 80vh;
-    background-image: url(../imgs/pictures/IMG_2499.jpg);
+    background-image: url(./imgs/pictures/IMG_2499.jpg);
     background-size: cover;
     width: 100%;
 }
